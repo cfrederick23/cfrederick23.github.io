@@ -34,7 +34,7 @@ url: "https://cfrederick23.github.io" # the base hostname & protocol for your si
 github_username:  cfrederick23
 
 # Build settings
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
