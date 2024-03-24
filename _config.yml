@@ -28,10 +28,10 @@ domain: cfrederick23.github.io
 baseurl: "/cfrederick23.github.io" # the subpath of your site, e.g. /blog
 url: "https://cfrederick23.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  cfrederick23
 
 # Build settings
-theme: minima
+theme: jekyll-them-minimal
 plugins:
   - jekyll-feed
 
