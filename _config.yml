@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Chris Frederick's ePortfolio
+title: Chris Frederick
 email: christopher.frederick@snhu.edu
-description: >- # this means to ignore newlines until "domain:"
+description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my ePortfolio! Here, I delve into the convergence of innovation, technology, and creativity 
   through my journey in Computer Science. This platform showcases a curated selection of projects that 
   highlight my expertise in software design, engineering, and my commitment to continuous learning in the 
@@ -34,7 +34,7 @@ url: "https://cfrederick23.github.io" # the base hostname & protocol for your si
 github_username:  cfrederick23
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-them-minimal
 plugins:
   - jekyll-feed
 
