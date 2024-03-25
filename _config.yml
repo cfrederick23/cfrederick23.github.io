@@ -21,11 +21,17 @@
 title: Chris Frederick's ePortfolio
 email: christopher.frederick@snhu.edu
 description: >- # this means to ignore newlines until "domain:"
-  Test
+  Welcome to my ePortfolio! Here, I delve into the convergence of innovation, technology, and creativity 
+  through my journey in Computer Science. This platform showcases a curated selection of projects that 
+  highlight my expertise in software design, engineering, and my commitment to continuous learning in the 
+  ever-evolving tech landscape. Each project is a testament to my ability to tackle complex problems, 
+  craft scalable solutions, and adapt to diverse computing environments. Dive into my portfolio to explore 
+  how I blend theoretical knowledge with practical applications to drive progress and efficiency in the 
+  digital world.
 domain: cfrederick23.github.io
 baseurl: "/cfrederick23.github.io" # the subpath of your site, e.g. /blog
 url: "https://cfrederick23.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  cfrederick23
+github_username: cfrederick23
 
 # Build settings
 theme: minima
