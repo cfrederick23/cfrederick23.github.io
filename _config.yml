@@ -18,16 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Chris Frederick's ePortfolio
+title: Welcome to My ePortfolio
 email: christopher.frederick@snhu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my ePortfolio! Here, I delve into the convergence of innovation, technology, and creativity 
-  through my journey in Computer Science. This platform showcases a curated selection of projects that 
-  highlight my expertise in software design, engineering, and my commitment to continuous learning in the 
-  ever-evolving tech landscape. Each project is a testament to my ability to tackle complex problems, 
-  craft scalable solutions, and adapt to diverse computing environments. Dive into my portfolio to explore 
-  how I blend theoretical knowledge with practical applications to drive progress and efficiency in the 
-  digital world.
+  Chris Frederick
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: cfrederick23
