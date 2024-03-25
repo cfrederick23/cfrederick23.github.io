@@ -35,8 +35,6 @@ github_username: cfrederick23
 # Build settings
 remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag ~> 2.0
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Exclude from processing.
