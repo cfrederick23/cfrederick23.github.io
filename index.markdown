@@ -33,5 +33,5 @@ This ePortfolio showcases the culmination of my learning and achievements throug
 
 ### Contact Information
 
-For more information or to discuss my work, please contact me at [your-email@example.com](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com).
+For more information or to discuss my work, please contact me at [christopher.frederick@snhu.edu](mailto:christopher.frederick@snhu.edu).
 
