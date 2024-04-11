@@ -1,135 +1,37 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 ---
 
+# Welcome to My Computer Science ePortfolio
+
+## Professional Self-Assessment
+
+This is a brief summary of my professional self-assessment. Reflecting on my journey through the Computer Science program has been incredibly enlightening, and I'm excited to share some of my key insights and experiences with you. [Read More](./self-assessment.html)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y4NkDoMdmSQ?si=N7-SUjTGfKBjds-H" title="Code Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-```java
-// Java code with syntax highlighting
-public static void print(text) {
-    System.out.println(text);
-}
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
 
 * * *
 
-### Here is an unordered list:
+## Enhancements
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+### Enhancement One: Software Engineering and Design
+I introduced the `RescueAnimalFactory` class, enhancing the software design and engineering aspect of the project. [Read More](./enhancement-one.html)
 
-### And an ordered list:
+### Enhancement Two: Algorithms and Data Structure
+The implementation of hash maps greatly improved data retrieval efficiency. [Read More](./enhancement-two.html)
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+### Enhancement Three: Databases
+The transition to a SQLite database system was a significant upgrade, introducing robust data management capabilities. [Read More](./enhancement-three.html)
 
-### And a nested list:
+* * *
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+## About This Project
 
-### Small image
+This ePortfolio showcases the culmination of my learning and achievements throughout the Computer Science program. It includes a detailed review of enhancements made to my initial project, insights from my professional self-assessment, and a reflection on the skills and knowledge I've acquired.
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+* * *
 
-### Large image
+### Contact Information
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+For more information or to discuss my work, please contact me at [your-email@example.com](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com).
 
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
