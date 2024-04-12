@@ -2,40 +2,35 @@
 layout: default
 ---
 
-# Professional Self-Assessment
-Welcome to my ePortfolio. This section serves as an introduction and reflects on my journey and growth within the Computer Science program. Here, I discuss my professional goals, the skills I've honed, and how my coursework has shaped my approach to problem-solving and innovation in the tech industry.
+# Welcome to My ePortfolio
 
-# Project Introduction
-## Origins of the Project
-This project originated from [specify course or context], where I first developed the foundational aspects of what would become a comprehensive exploration of software engineering principles.
+## Professional Self-Assessment
+As a Computer Science student at SNHU since August 2021, with a concentration in Data Analysis from September 2023, I've honed my skills in object-oriented programming, software documentation, and rigorous testing. These skills are vital in my career as a medical professional liability insurance underwriter, where analytical precision and effective data handling are paramount. Through this ePortfolio, I showcase the culmination of my academic journey and the practical application of my knowledge in real-world scenarios.
 
-## Why This Project?
-I chose this project for my capstone due to its potential for extensive enhancement and its relevance to my career aspirations in [specify field or industry]. It presented a unique challenge that aligned perfectly with my academic and professional goals.
+## Project Overview
+**Origin and Selection:** The centerpiece of this ePortfolio is a Java-based application developed initially for Grazioso Salvare during the IT 145 course. This project was chosen for its potential to demonstrate significant enhancements in software engineering, algorithms, and databases.
 
-## Overview of Enhancements
-The enhancements performed on this project span three critical areas of Computer Science:
-- **Software Design and Engineering**
-- **Algorithms and Data Structures**
-- **Databases**
+**Objective and Enhancements:**
+- **Software Engineering and Design**: Introduced a factory design pattern to streamline object creation, enhancing modularity and scalability.
+- **Algorithms and Data Structures**: Optimized search functionalities by implementing hash maps, drastically improving search efficiency.
+- **Databases**: Transitioned from in-memory storage to a robust SQLite database, enhancing data management and security.
 
-Each of these enhancements was aimed at demonstrating specific competencies and the application of advanced concepts from my studies.
+Each enhancement underscores my ability to innovate within my field and reflects targeted outcomes of the Computer Science curriculum.
 
-# Enhancements Overview
-Here's a brief look at the enhancements I implemented:
+## Enhancements Overview
+### [Software Engineering and Design](./enhancement-one.html)
+Introduced the `RescueAnimalFactory`, enhancing the system's architecture to improve flexibility and scalability. This foundational enhancement underpins subsequent enhancements.
 
-## Software Design and Engineering
-This enhancement focused on refining the architecture and design of the software, improving maintainability and scalability. [Learn more about this enhancement](./enhancement-one.html).
+### [Algorithms and Data Structures](./enhancement-two.html)
+Focused on optimizing data retrieval by implementing hash maps, significantly reducing time complexity from O(n) to O(1) for key operations.
 
-## Algorithms and Data Structures
-In this enhancement, I optimized data handling and processing using advanced algorithms which significantly enhanced performance. [Learn more about this enhancement](./enhancement-two.html).
-
-## Databases
-The final enhancement involved integrating a robust database system to manage data more efficiently, ensuring data integrity and security. [Learn more about this enhancement](./enhancement-three.html).
+### [Databases](./enhancement-three.html)
+Implemented a SQLite database to provide robust data management and security features, replacing the less efficient in-memory storage solution.
 
 # Watch My Code Review
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y4NkDoMdmSQ?si=N7-SUjTGfKBjds-H" title="Code Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-This code review video offers a detailed walkthrough of the existing functionality before enhancements, highlights areas for improvement, and discusses the planned enhancements in detail.
+This code review video provides insights into the initial state of the project, discussing the existing features and identifying areas for improvement. It sets the stage for the enhancements detailed in this ePortfolio, highlighting how each contributes to the overarching goals of demonstrating advanced competency in computer science.
 
 # Connect With Me
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/cfrederick23) or visit my [GitHub](https://github.com/cfrederick23) profile to see more of my projects. For more information or to discuss my work, please contact me at [christopher.frederick@snhu.edu](mailto:christopher.frederick@snhu.edu).
