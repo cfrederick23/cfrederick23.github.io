@@ -11,7 +11,7 @@ My academic endeavor in Computer Science at SNHU has endowed me with an array of
 **[Read my full Professional Self-Assessment](./self-assessment.html)**
 
 # Project Overview
-**Origin and Selection:** The centerpiece of this ePortfolio is a Java-based application developed initially during the IT 145 Foundation in Application Development course. This project was chosen for its potential to demonstrate significant enhancements in software engineering, algorithms, and databases.
+**Origin and Selection:** The centerpiece of this ePortfolio is a Java-based application developed initially during the IT 145 Foundation in Application Development course. As part of the CS 499 Computer Science Capstone course, this artifact was enhanced in three specific categories: software engineering and design, algorithms and data structures, and databases. This artifact was chosen for its potential to demonstrate significant enhancements in each of these categories.
 
 **Objective and Enhancements:**
 - **Software Engineering and Design**: Introduced a factory design pattern to streamline object creation, enhancing modularity and scalability.
@@ -19,6 +19,11 @@ My academic endeavor in Computer Science at SNHU has endowed me with an array of
 - **Databases**: Transitioned from in-memory storage to a robust SQLite database, enhancing data management and security.
 
 Each enhancement underscores my ability to innovate within my field and reflects targeted outcomes of the Computer Science curriculum.
+
+# Watch My Code Review
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y4NkDoMdmSQ?si=N7-SUjTGfKBjds-H" title="Code Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+This code review video provides insights into the initial state of the project, discussing the existing features and identifying areas for improvement. It sets the stage for the enhancements detailed in this ePortfolio, highlighting how each contributes to the overarching goals of demonstrating advanced competency in computer science.
 
 # Enhancements Overview
 ## [Software Engineering and Design](./enhancement-one.html)
@@ -29,11 +34,6 @@ Focused on optimizing data retrieval by implementing hash maps, significantly re
 
 ## [Databases](./enhancement-three.html)
 Implemented a SQLite database to provide robust data management and security features, replacing the less efficient in-memory storage solution.
-
-# Watch My Code Review
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y4NkDoMdmSQ?si=N7-SUjTGfKBjds-H" title="Code Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-This code review video provides insights into the initial state of the project, discussing the existing features and identifying areas for improvement. It sets the stage for the enhancements detailed in this ePortfolio, highlighting how each contributes to the overarching goals of demonstrating advanced competency in computer science.
 
 # Connect With Me
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/cfrederick23) or visit my [GitHub](https://github.com/cfrederick23) profile to see more of my projects. For more information or to discuss my work, please contact me at [christopher.frederick@snhu.edu](mailto:christopher.frederick@snhu.edu).
