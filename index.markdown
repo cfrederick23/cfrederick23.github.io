@@ -6,11 +6,7 @@ layout: default
 As I near the completion of my Bachelor’s degree in Computer Science with a concentration in Data Analysis at Southern New Hampshire University (SNHU), this ePortfolio reflects the culmination of rigorous academic training and hands-on project work. It showcases a collection of refined projects that represent not only my technical skills in software development, data structures, algorithms, and databases but also my ability to apply these skills in practical, real-world scenarios.
 
 # Professional Self-Assessment
-As a Computer Science student at SNHU, my academic journey has been both rigorous and rewarding. This program has equipped me with a robust set of skills fundamental to any technology-driven career, including advanced proficiency in software engineering, an understanding of complex data structures and algorithms, and the ability to secure and manage databases effectively.
-
-This ePortfolio serves as a culmination of my learning experiences and projects, illustrating not only my technical skills but also my growth as a problem solver and a leader in collaborative environments. Throughout my coursework, I have engaged in numerous projects that required close collaboration with peers, navigating complex problems and delivering solutions that are both innovative and practical. These experiences have shaped my professional values and goals, preparing me to enter a competitive job market where these skills are highly valued.
-
-In developing this ePortfolio, I aimed to showcase projects that demonstrate my ability to integrate software engineering principles with data analysis to create robust, efficient, and secure applications. From optimizing algorithms for performance to designing databases that ensure data integrity and security, each project within this portfolio reflects a strategic aspect of my capabilities.
+My academic endeavor in Computer Science at SNHU has endowed me with an array of skills pivotal for today's tech landscape. This ePortfolio highlights one multifaceted project, refined through three enhancements, to demonstrate my acumen in software engineering, sophisticated algorithm design, and robust database management.
 
 **[Read my full Professional Self-Assessment](./self-assessment.html)**
 
@@ -41,4 +37,3 @@ This code review video provides insights into the initial state of the project, 
 
 # Connect With Me
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/cfrederick23) or visit my [GitHub](https://github.com/cfrederick23) profile to see more of my projects. For more information or to discuss my work, please contact me at [christopher.frederick@snhu.edu](mailto:christopher.frederick@snhu.edu).
-
