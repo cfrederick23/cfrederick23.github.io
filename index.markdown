@@ -2,13 +2,17 @@
 layout: default
 ---
 
-# Welcome to My ePortfolio
+# Professional Self-Assessment
+As a Computer Science student at SNHU, specializing in Data Analysis, my academic journey has been both rigorous and rewarding. This program has equipped me with a robust set of skills fundamental to any technology-driven career, including advanced proficiency in software engineering, an understanding of complex data structures and algorithms, and the ability to secure and manage databases effectively.
 
-## Professional Self-Assessment
-As a Computer Science student at SNHU since August 2021, with a concentration in Data Analysis from September 2023, I've honed my skills in object-oriented programming, software documentation, and rigorous testing. These skills are vital in my career as a medical professional liability insurance underwriter, where analytical precision and effective data handling are paramount. Through this ePortfolio, I showcase the culmination of my academic journey and the practical application of my knowledge in real-world scenarios.
+This ePortfolio serves as a culmination of my learning experiences and projects, illustrating not only my technical skills but also my growth as a problem solver and a leader in collaborative environments. Throughout my coursework, I have engaged in numerous projects that required close collaboration with peers, navigating complex problems and delivering solutions that are both innovative and practical. These experiences have shaped my professional values and goals, preparing me to enter a competitive job market where these skills are highly valued.
 
-## Project Overview
-**Origin and Selection:** The centerpiece of this ePortfolio is a Java-based application developed initially for Grazioso Salvare during the IT 145 course. This project was chosen for its potential to demonstrate significant enhancements in software engineering, algorithms, and databases.
+In developing this ePortfolio, I aimed to showcase projects that demonstrate my ability to integrate software engineering principles with data analysis to create robust, efficient, and secure applications. From optimizing algorithms for performance to designing databases that ensure data integrity and security, each project within this portfolio reflects a strategic aspect of my capabilities.
+
+**[Read my full Professional Self-Assessment](./self-assessment.html)**
+
+# Project Overview
+**Origin and Selection:** The centerpiece of this ePortfolio is a Java-based application developed initially during the IT 145 Foundation in Application Development course. This project was chosen for its potential to demonstrate significant enhancements in software engineering, algorithms, and databases.
 
 **Objective and Enhancements:**
 - **Software Engineering and Design**: Introduced a factory design pattern to streamline object creation, enhancing modularity and scalability.
@@ -17,14 +21,14 @@ As a Computer Science student at SNHU since August 2021, with a concentration in
 
 Each enhancement underscores my ability to innovate within my field and reflects targeted outcomes of the Computer Science curriculum.
 
-## Enhancements Overview
-### [Software Engineering and Design](./enhancement-one.html)
+# Enhancements Overview
+## [Software Engineering and Design](./enhancement-one.html)
 Introduced the `RescueAnimalFactory`, enhancing the system's architecture to improve flexibility and scalability. This foundational enhancement underpins subsequent enhancements.
 
-### [Algorithms and Data Structures](./enhancement-two.html)
+## [Algorithms and Data Structures](./enhancement-two.html)
 Focused on optimizing data retrieval by implementing hash maps, significantly reducing time complexity from O(n) to O(1) for key operations.
 
-### [Databases](./enhancement-three.html)
+## [Databases](./enhancement-three.html)
 Implemented a SQLite database to provide robust data management and security features, replacing the less efficient in-memory storage solution.
 
 # Watch My Code Review
