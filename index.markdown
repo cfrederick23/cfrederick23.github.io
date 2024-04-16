@@ -17,19 +17,19 @@ The primary objective of this capstone project is to select artifact(s) to enhan
 
 ### Achievements of Course Outcomes
 
-###### Course Outcome 1: Collaborative Environments
+##### Course Outcome 1: Collaborative Environments
 I employed strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science by developing a modular and scalable architecture that supports simultaneous multi-contributor inputs without compromising system integrity.
 
-###### Course Outcome 2: Professional-Quality Communications
+##### Course Outcome 2: Professional-Quality Communications
 I designed, developed, and delivered professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts by utilizing JavaDoc comments to enhance the legibility and instructional value of the code and by creating a comprehensive code review video that elucidates the functionality and improvements of the project, making it accessible and informative to both technical and non-technical audiences.
 
-###### Course Outcome 3: Algorithmic Solutions Design
+##### Course Outcome 3: Algorithmic Solutions Design
 I designed and evaluated computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution by implementing a hash map to optimize search functionalities, significantly improving the search efficiency by reducing the average time complexity from O(n) to O(1), thus demonstrating an effective use of advanced data structures.
 
-###### Course Outcome 4: Innovative Computing Techniques
+##### Course Outcome 4: Innovative Computing Techniques
 I demonstrated an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals by integrating a SQLite database, which not only enhanced the system’s data management and scalability but also enabled the ability to maintain persistent data across sessions. The use of Java's PreparedStatement further contributed to ensuring data integrity and preventing SQL injection attacks, supporting more complex and higher volume data operations without compromising performance.
 
-###### Course Outcome 5: Security Mindset
+##### Course Outcome 5: Security Mindset
 I developed a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources by implementing advanced password handling techniques, including the hashing and salting of passwords, to fortify user authentication processes. Additionally, the introduction of user roles with admin functionality allows for differentiated access control, further enhancing the security and robustness of the system's architecture.
 
 ### Summary
