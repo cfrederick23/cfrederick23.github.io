@@ -6,31 +6,52 @@ title: Enhancement Two - Algorithms and Data Structure
 <h1>Enhancement Two: Algorithms and Data Structure</h1>
 
 <p>
-The second enhancement to the Grazioso Salvare application involved optimizing data retrieval processes by leveraging advanced data structures, specifically hash maps. This modification built upon the foundational work established in the first enhancement, aiming to enhance the efficiency and performance of the system.
+Reflecting on the progression of the Grazioso Salvare Rescue Animal Management System, this enhancement built upon the foundational software engineering and design improvements made previously, by enhancing the project in the algorithms and data structures category. The aim was to transition the system from a basic to a sophisticated application demonstrating my capabilities in optimizing data retrieval processes using advanced data structures.
 </p>
 
 <h2>About the Enhancement</h2>
 
 <p>
-The implementation of hash maps in the application represented a significant improvement in search functionality. By transitioning from linear search methods to hash maps, the time complexity of search operations was reduced from O(n) to O(1) under most circumstances. This enhancement was critical for scaling the application and improving user experience by providing faster access to rescue animal records.
+The most notable improvement in this milestone was the integration of a hash map to optimize the search functionality. This significant adjustment reduced the time complexity of finding an animal from O(n) to O(1) in best-case scenarios, thus making data retrieval more efficient.
 </p>
 
-<h2>Alignment with Course Outcomes</h2>
-
 <p>
-This enhancement aligns with the course outcome of "Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices." The strategic use of hash maps to optimize search functionality exemplifies the application of algorithmic principles to solve a critical performance issue within the application.
+To demonstrate the difference in time complexities between a search using a hash map and a search using an array list, the 'initializeAnimals' method within the 'RescueAnimalFactory' class was utilized. Here, for loops were employed to create Dog and Monkey objects, which were then added to both the hash map and the array list. Methods providing search-by-name functionality were then implemented for each list.
 </p>
 
-<h2>Challenges and Learnings</h2>
+<p>
+Images illustrating the for loops and search implementations:
+</p>
+<img src="images/For Loop - Dog.png" alt="For Loop Implementation for Dog" title="For Loop - Dog">
+<img src="images/For Loop - Monkey.png" alt="For Loop Implementation for Monkey" title="For Loop - Monkey">
+<img src="images/ArrayList Search.png" alt="Array List Search Method" title="ArrayList Search">
+<img src="images/HashMap Search.png" alt="Hash Map Search Method" title="HashMap Search">
 
 <p>
-A challenge encountered during this enhancement was ensuring the integrity of data while transitioning to a hash map-based storage mechanism. This required a thorough understanding of hash map operations and careful planning to prevent data collision and ensure efficient data retrieval. The process was an invaluable learning opportunity in data structure optimization and its impact on software performance.
+In the 'Driver' class, the 'searchAnimalByName' method calls both the 'searchAnimalByNameHashMap' and 'searchAnimalByNameArrayList' methods from the 'RescueAnimalFactory' class, calculating the duration time for each method call, as shown in the screenshot below:
+</p>
+<img src="images/Time Capture.png" alt="Time Capture for Search Methods" title="Time Capture">
+
+<h2>Performance Comparison</h2>
+
+<p>
+The difference in performance between each search algorithm is demonstrated in the following screenshots:
+</p>
+<img src="images/Result 1.png" alt="Search Performance Result 1" title="Result 1">
+<img src="images/Result 2.png" alt="Search Performance Result 2" title="Result 2">
+
+<h2>Additional Enhancements and Outcomes</h2>
+
+<p>
+Further enhancements included updating animal attributes, deleting records, and canceling reservations, which increased the system's administrative versatility. The introduction of specific validation methods like 'validateAge' and 'validateWeight' ensured the accuracy and integrity of the data entered into the system. The change to 'Date' from 'String' for acquisition dates and the revamping of the user interface enhanced navigability and aesthetic appeal.
 </p>
 
-<h2>Skills Demonstrated</h2>
+<p>
+These enhancements not only improved the system's organization and maintainability but also demonstrated a commitment to best practices in software development. The incorporation of a help/about menu option and the diligent closure of system resources upon application termination highlighted attention to detail and security-minded practices.
+</p>
 
 <p>
-Through this enhancement, I demonstrated proficiency in data structures and algorithms, particularly in applying hash maps to improve system performance. Additionally, this enhancement showcased my ability to analyze and optimize existing code for better efficiency and scalability.
+Through these enhancements, I directly addressed and fulfilled key program outcomes, notably in designing and evaluating computing solutions with algorithmic principles and developing a security mindset that anticipates adversarial exploits in software architecture.
 </p>
 
 <a href="/">Return to Home</a>
