@@ -17,19 +17,19 @@ The primary objective of this capstone project is to select artifact(s) to enhan
 
 ### Achievements of Course Outcomes
 - **Course Outcome 1: Collaborative Environments**
-  - I employed strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science by developing a modular and scalable architecture that supports simultaneous multi-contributor inputs without compromising system integrity.
+  I employed strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science by developing a modular and scalable architecture that supports simultaneous multi-contributor inputs without compromising system integrity.
 
 - **Course Outcome 2: Professional-Quality Communications**
-  - I designed, developed, and delivered professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts by utilizing JavaDoc comments to enhance the legibility and instructional value of the code.
+  I designed, developed, and delivered professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts by utilizing JavaDoc comments to enhance the legibility and instructional value of the code.
 
 - **Course Outcome 3: Algorithmic Solutions Design**
-  - I designed and evaluated computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution by implementing a hash map to optimize search functionalities, demonstrating effective use of data structures.
+  I designed and evaluated computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution by implementing a hash map to optimize search functionalities, demonstrating effective use of data structures.
 
 - **Course Outcome 4: Innovative Computing Techniques**
-  - I demonstrated an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals by integrating a SQLite database and employing Java's PreparedStatement.
+  I demonstrated an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals by integrating a SQLite database and employing Java's PreparedStatement.
 
 - **Course Outcome 5: Security Mindset**
-  - I developed a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources by implementing advanced password handling techniques and using prepared statements to protect against SQL injection.
+  I developed a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources by implementing advanced password handling techniques and using prepared statements to protect against SQL injection.
 
 ### Summary
 My coursework and enhancements made throughout this program have imbued me with crucial skills for today’s technology-driven workplaces. This ePortfolio not only showcases my technical skills but also my holistic approach to synthesizing these competencies to build comprehensive, secure software solutions. It demonstrates my readiness to contribute effectively in the field of computer science, particularly in roles that require rigorous analysis and strategic foresight.
@@ -40,12 +40,15 @@ My coursework and enhancements made throughout this program have imbued me with 
 
 ## Artifact Enhancements
 
-- **Enhancement One: Software Engineering and Design**: Implemented a factory design pattern through the `RescueAnimalFactory` to streamline object creation processes, which enhances the modularity and scalability of the application. [Read More](./enhancement-one.html)
+- **Enhancement One: Software Engineering and Design**: Implemented a factory design pattern through the `RescueAnimalFactory` to streamline object creation processes, which enhances the modularity and scalability of the application.
+[Read More](./enhancement-one.html)
   
-- **Enhancement Two: Algorithms and Data Structures**: Optimized the search functionality by implementing hash maps, improving the time complexity from O(n) to O(1) for key operations, demonstrating efficient algorithm utilization. [Read More](./enhancement-two.html)
+- **Enhancement Two: Algorithms and Data Structures**: Optimized the search functionality by implementing hash maps, improving the time complexity from O(n) to O(1) for key operations, demonstrating efficient algorithm utilization.
+[Read More](./enhancement-two.html)
   
-- **Enhancement Three: Databases**: Enhanced the application’s data handling capabilities by integrating a SQLite database, replacing the previous in-memory storage system. This improvement significantly boosts the application's data management and security. [Read More](./enhancement-three.html)
+- **Enhancement Three: Databases**: Enhanced the application’s data handling capabilities by integrating a SQLite database, replacing the previous in-memory storage system. This improvement significantly boosts the application's data management and security.
+[Read More](./enhancement-three.html)
 
 ## Connect With Me
 
-For more insights into my projects and to view additional work, please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/cfrederick23) or visit my [GitHub profile](https://github.com/cfrederick23). For further information or to discuss my work, you can reach me at [christopher.frederick@snhu.edu](mailto:christopher.frederick@snhu.edu).
+For more insights into my project and to view additional work, please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/cfrederick23) or visit my [GitHub profile](https://github.com/cfrederick23). For further information or to discuss my work, you can reach me at [christopher.frederick@snhu.edu](mailto:christopher.frederick@snhu.edu).
