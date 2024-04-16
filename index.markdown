@@ -2,38 +2,32 @@
 layout: default
 ---
 
-# Welcome to My ePortfolio
-As I near the completion of my Bachelor’s degree in Computer Science with a concentration in Data Analysis at Southern New Hampshire University (SNHU), this ePortfolio reflects the culmination of rigorous academic training and hands-on project work. It showcases a collection of refined projects that represent not only my technical skills in software development, data structures, algorithms, and databases but also my ability to apply these skills in practical, real-world scenarios.
+## Welcome to My ePortfolio
 
-# Professional Self-Assessment
-My academic endeavor in Computer Science at SNHU has endowed me with an array of skills pivotal for today's tech landscape. This ePortfolio highlights one multifaceted project, refined through three enhancements, to demonstrate my acumen in software engineering, sophisticated algorithm design, and robust database management.
+This ePortfolio is a culmination of my studies in the Bachelor’s of Computer Science program at Southern New Hampshire University (SNHU). The primary aim of this ePortfolio is to present the enhancements made to a foundational Java-based application, which I developed earlier in my coursework. These enhancements illustrate my growth and proficiency in Software Design and Engineering, Algorithms and Data Structures, and Database Management. I have included links to a code review video that explain both the original state of the project and the subsequent enhancements made during my capstone project.
 
-**[Read my full Professional Self-Assessment](./self-assessment.html)**
+## Self-Assessment
 
-# Project Overview
-**Origin and Selection:** The centerpiece of this ePortfolio is a Java-based application developed initially during the IT 145 Foundation in Application Development course. As part of the CS 499 Computer Science Capstone course, this artifact was enhanced in three specific categories: software engineering and design, algorithms and data structures, and databases. This artifact was chosen for its potential to demonstrate significant enhancements in each of these categories.
+During my time at SNHU, I have honed my abilities in tackling complex computational problems and developing robust software solutions. Initially attracted to the realm of data analysis within computer science, my academic projects have consistently pushed the boundaries of my knowledge and technical skills. This capstone project represents the pinnacle of my educational experience, allowing me to refine and showcase key projects that exemplify my capabilities as a software developer.
 
-**Objective and Enhancements:**
-- **Software Engineering and Design**: Introduced a factory design pattern to streamline object creation, enhancing modularity and scalability.
-- **Algorithms and Data Structures**: Optimized search functionalities by implementing hash maps, drastically improving search efficiency.
-- **Databases**: Transitioned from in-memory storage to a robust SQLite database, enhancing data management and security.
+For the capstone, I chose to enhance a Java-based application that was initially created as part of the IT 145 Foundation in Application Development course. This project initially demonstrated my ability to design and implement functional software solutions. Through the capstone enhancements, I have significantly improved the application’s architecture, incorporating advanced algorithms, and transitioning to a robust SQLite database system. Each enhancement was methodically applied, reflecting my systematic approach to software development and my commitment to continuous learning and improvement.
 
-Each enhancement underscores my ability to innovate within my field and reflects targeted outcomes of the Computer Science curriculum.
+My ability to integrate complex data structures and optimize database interactions speaks to my readiness to contribute effectively in a professional programming environment. I pride myself on writing clean, well-documented, and efficient code, adhering to best practices in software design and object-oriented principles. The skills and knowledge I have developed at SNHU are thoroughly applied in this project, preparing me for future challenges and opportunities in the tech industry.
 
-# Watch My Code Review
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y4NkDoMdmSQ?si=N7-SUjTGfKBjds-H" title="Code Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Code Review
 
-This code review video provides insights into the initial state of the project, discussing the existing features and identifying areas for improvement. It sets the stage for the enhancements detailed in this ePortfolio, highlighting how each contributes to the overarching goals of demonstrating advanced competency in computer science.
+[Watch My Code Review on YouTube](https://www.youtube.com/watch?v=Y4NkDoMdmSQ)
 
-# Enhancements Overview
-## [Software Engineering and Design](./enhancement-one.html)
-Introduced the `RescueAnimalFactory`, enhancing the system's architecture to improve flexibility and scalability. This foundational enhancement underpins subsequent enhancements.
+## Artifact Enhancements
 
-## [Algorithms and Data Structures](./enhancement-two.html)
-Focused on optimizing data retrieval by implementing hash maps, significantly reducing time complexity from O(n) to O(1) for key operations.
+- **Enhancement One: Software Engineering and Design**: Implemented a factory design pattern through the `RescueAnimalFactory` to streamline object creation processes, which enhances the modularity and scalability of the application. [Read More](./enhancement-one.html)
+  
+- **Enhancement Two: Algorithms and Data Structures**: Optimized the search functionality by implementing hash maps, improving the time complexity from O(n) to O(1) for key operations, demonstrating efficient algorithm utilization. [Read More](./enhancement-two.html)
+  
+- **Enhancement Three: Databases**: Enhanced the application’s data handling capabilities by integrating a SQLite database, replacing the previous in-memory storage system. This improvement significantly boosts the application's data management and security. [Read More](./enhancement-three.html)
 
-## [Databases](./enhancement-three.html)
-Implemented a SQLite database to provide robust data management and security features, replacing the less efficient in-memory storage solution.
+## Connect With Me
 
-# Connect With Me
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/cfrederick23) or visit my [GitHub](https://github.com/cfrederick23) profile to see more of my projects. For more information or to discuss my work, please contact me at [christopher.frederick@snhu.edu](mailto:christopher.frederick@snhu.edu).
+For more insights into my projects and to view additional work, please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/cfrederick23) or visit my [GitHub profile](https://github.com/cfrederick23). For further information or to discuss my work, you can reach me at [christopher.frederick@snhu.edu](mailto:christopher.frederick@snhu.edu).
+
+To view more of my work outside this ePortfolio, please visit my personal website.
