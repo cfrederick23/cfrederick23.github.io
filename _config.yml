@@ -22,7 +22,8 @@ title: Chris Frederick's ePortfolio
 email: christopher.frederick@snhu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   “Computers are incredibly fast, accurate, and stupid. Human beings are incredibly slow, 
-  inaccurate, and brilliant. Together they are powerful beyond imagination.” – Albert Einstein
+  inaccurate, and brilliant. Together they are powerful beyond imagination.”  
+  – Albert Einstein
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: cfrederick23
