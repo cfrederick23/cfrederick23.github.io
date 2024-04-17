@@ -21,13 +21,13 @@
 title: Chris Frederick's ePortfolio
 email: christopher.frederick@snhu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Delve into the projects and accomplishments that mark my academic and professional strides in Computer Science and Data Analysis.
+  Explore the milestones of my Computer Science journey at SNHU, from code to capstone.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: cfrederick23
 
 # Build settings
-theme: jekyll-theme-modernist
+theme: jekyll-theme-time-machine
 plugins:
   - jekyll-feed
 
