@@ -14,9 +14,11 @@ Reflecting on my time in the Computer Science program at Southern New Hampshire 
 ## Purpose and Scope of the Capstone Project
 
 The primary objective of this capstone project is to select artifact(s) to enhance in three key areas:  
+
 - **software engineering and design**  
 - **algorithms and data structures**  
 - **databases**  
+
 The aim is to demonstrate comprehensive application and mastery of computer science principles toward achieving designated course outcomes. For this endeavor, the artifact chosen is a Java-based console application developed for Grazioso Salvare, a hypothetical entity aimed at connecting rescue animals with potential rescue mission opportunities. Originating from the IT 145 Foundation in Application Development course, this project, finalized in April 2022, served as an introductory platform to object-oriented programming. It was designed to manage and oversee rescue animal data, offering an administrative interface for managing animal records within the system. This specific artifact was enhanced in all three categories to exhibit continuity and depth in my application of these principles. The first enhancement involved implementing the `RescueAnimalFactory` class to centralize object instantiation, improving modularity and scalability. The second enhancement optimized search functionality through the implementation of a hash map, greatly enhancing the efficiency of animal searches. The third enhancement transitioned the system to a robust SQLite database, incorporating secure login mechanisms through hashing and salting of passwords and enhancing overall security with the use of Java's PreparedStatements. Each enhancement was carefully designed to highlight specific competencies and outcomes of the program.
 
 ## Achievements of Course Outcomes
