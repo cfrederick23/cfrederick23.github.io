@@ -29,7 +29,7 @@ github_username: cfrederick23
 # Build settings
 theme: jekyll-theme-time-machine
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
