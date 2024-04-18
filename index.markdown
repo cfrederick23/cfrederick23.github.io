@@ -63,14 +63,19 @@ This professional self-assessment and the accompanying ePortfolio not only highl
 
 # Artifact Enhancements
 
+As a recap, the artifact chosen for all enhancements originated from my earlier coursework in the "Foundation in Application Development" (IT 145) course. You can download the original Java files here:
+
+[Download Original Artifact Files](https://drive.google.com/file/d/1H_jYTxW2bufyUUKd39A2H4BJKdbFLbHV/view?usp=drive_link)
+
 - **Enhancement One: Software Engineering and Design**: Implemented a factory design pattern through the `RescueAnimalFactory` to streamline object creation processes, which enhances the modularity and scalability of the application.  
-[Read More](./enhancement-one.html)
+[Read More](./enhancement-one.html) | [Download Enhancement One Files](https://drive.google.com/file/d/1WwYssKLHy77b7uCjTqBroRx2x9RuhU_V/view?usp=drive_link)
   
 - **Enhancement Two: Algorithms and Data Structures**: Optimized the search functionality by implementing hash maps, improving the time complexity from O(n) to O(1) for key operations, demonstrating efficient algorithm utilization.  
-[Read More](./enhancement-two.html)
+[Read More](./enhancement-two.html) | [Download Enhancement Two Files](https://drive.google.com/file/d/1HaDTTC-5UzFHW5S0RK5aAPMYYCOFvfys/view?usp=drive_link)
   
 - **Enhancement Three: Databases**: Enhanced the application’s data handling capabilities by integrating a SQLite database, replacing the previous in-memory storage system. This improvement significantly boosts the application's data management and security.  
-[Read More](./enhancement-three.html)
+[Read More](./enhancement-three.html) | [Download Enhancement Three Files](https://drive.google.com/file/d/1cFJV_Pbotwh6q2cz6HsYjXO4wnQ2x-DL/view?usp=drive_link)
+
 
 # Connect With Me
 
