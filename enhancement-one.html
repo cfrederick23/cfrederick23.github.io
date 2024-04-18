@@ -5,38 +5,57 @@ title: Enhancement One - Software Engineering and Design
 
 <h1>Enhancement One: Software Engineering and Design</h1>
 
-<a href="https://drive.google.com/file/d/1WwYssKLHy77b7uCjTqBroRx2x9RuhU_V/view?usp=drive_link" target="_blank">Download Enhancement One</a>
+<p><a href="https://drive.google.com/file/d/1WwYssKLHy77b7uCjTqBroRx2x9RuhU_V/view?usp=drive_link" target="_blank">Download Enhancement One</a></p>
 
-<p>
-The primary focus of this enhancement was the <code>RescueAnimalFactory</code> class introduced into the Grazioso application, originally developed during the IT 145 Foundation in Application Development course at SNHU. This enhancement is pivotal in transforming the project from a basic introductory object-oriented programming model to a sophisticated, scalable, and modular software system.
-</p>
+<p>As a recap, the chosen artifact for this enhancement was a Java-based console application developed for Grazioso Salvare, initially created during the "Foundation in Application Development" (IT 145) course at SNHU. This project was selected for its potential to be transformed from a basic introductory object-oriented programming model to a sophisticated, scalable, and modular software system. The primary focus of this enhancement was the introduction of the <code>RescueAnimalFactory</code> class.</p>
 
 <h2>About the Enhancement</h2>
 
-<p>
-The implementation of the <code>RescueAnimalFactory</code> class marks a significant enhancement in the software's architecture. By centralizing object instantiation, this factory design pattern enforces the "separation of concerns" principle, crucial for maintaining a clean and manageable codebase. This design choice not only enhances the modularity of the application but also facilitates future scalability and the integration of new animal types into the system seamlessly.
-</p>
+<p>The implementation of the <code>RescueAnimalFactory</code> class marked a significant improvement in the software's architecture. By centralizing object instantiation, this factory design pattern enforced the "separation of concerns" principle, crucial for maintaining a clean and manageable codebase. This design choice not only enhanced the modularity of the application but also facilitated future scalability and the integration of new animal types into the system seamlessly.</p>
 
-<p>
-Further strengthening the software's architecture, I introduced comprehensive JavaDoc comments to enhance the clarity and instructional value of the code, aligning with the goal to produce professional-quality communications suitable for diverse audiences. This strategic move improves the overall comprehensibility of the codebase, serving both educational and practical purposes in software development.
-</p>
+<pre><code>
+// Example of centralized object creation in RescueAnimalFactory
+public static Dog createDog(String name, String breed, String gender, String age, String weight, String acquisitionDate, String acquisitionCountry, String trainingStatus, boolean reserved, String inServiceCountry){
+    Dog dog = new Dog(name, breed, gender, age, weight, acquisitionDate, acquisitionCountry, trainingStatus, reserved,  inServiceCountry);
+    dogList.add(dog); // Dog ArrayList
+    animalList.add(dog); // RescueAnimal ArrayList
+    return dog;
+}
+
+public static Monkey createMonkey(String name, String tailLength, String height, String bodyLength, String species, String gender, String age, String weight, String acquisitionDate, String acquisitionCountry, String trainingStatus, boolean reserved, String inServiceCountry){
+    Monkey monkey = new Monkey(name, tailLength, height, bodyLength, species, gender, age, weight, acquisitionDate, acquisitionCountry, trainingStatus, reserved, inServiceCountry);
+    monkeyList.add(monkey); // Monkey ArrayList
+    animalList.add(monkey); // RescueAnimal ArrayList
+    return monkey;
+}
+</code></pre>
+
+<p>Further strengthening the software's architecture, comprehensive JavaDoc comments were introduced to enhance the clarity and instructional value of the code, aligning with the goal to produce professional-quality communications suitable for diverse audiences. This strategic move improved the overall comprehensibility of the codebase, serving both educational and practical purposes in software development.</p>
 
 <h2>Alignment with Course Outcomes</h2>
 
-<p>
-This enhancement directly aligns with several core course outcomes, including designing and developing scalable software solutions and delivering professional-quality communications. The structural innovations implemented in the <code>RescueAnimalFactory</code> class demonstrate advanced software engineering techniques and contribute significantly to the development of computing solutions that are valuable, efficient, and tailored to specific industry needs.
-</p>
+<p>This enhancement directly aligns with several core course outcomes, emphasizing the development of scalable software solutions and delivery of professional-quality communications. The structural innovations implemented in the <code>RescueAnimalFactory</code> class demonstrate advanced software engineering techniques and contribute significantly to the development of computing solutions that are valuable, efficient, and tailored to specific industry needs.</p>
+
+Example of a JavaDoc comment:
+<pre><code>
+/**
+ * The {@code RescueAnimalFactory} class is responsible for creating instances of rescue animals
+ * and managing the lists of animals within the rescue system. It provides factory methods to create
+ * new {@link Dog} and {@link Monkey} objects, and also maintains centralized lists of all animals,
+ * dogs, and monkeys for easy retrieval and management.
+ */
+</code></pre>
+
+<p>Specifically, this project addresses the course outcomes by enhancing collaborative environments through improved code modularity, fostering better teamwork and maintenance capabilities. It also supports the creation of innovative computing techniques by implementing a design pattern that anticipates future system expansions and integration challenges.</p>
 
 <h2>Challenges and Learnings</h2>
 
-<p>
-A key challenge in this enhancement was integrating the <code>RescueAnimalFactory</code> without disrupting existing functionalities. This process required careful planning and testing to ensure compatibility and performance. The experience was enriching, deepening my understanding of design patterns and their practical applications in enhancing software maintainability and scalability.
-</p>
+<p>Integrating the <code>RescueAnimalFactory</code> without disrupting existing functionalities presented a moderate challenge. This process required meticulous planning and testing to ensure compatibility and performance. Through this experience, I deepened my understanding of design patterns and their practical applications in enhancing software maintainability and scalability.</p>
+
+<p>Adhering to rigorous documentation standards and employing JavaDoc effectively were key learnings that enhanced my ability to communicate complex technical details clearly. This practice not only facilitated easier code maintenance but also ensured that any programmer could understand and engage with the codebase effectively, highlighting the importance of clear and intentional commenting.</p>
 
 <h2>Skills Demonstrated</h2>
 
-<p>
-Through this enhancement, I demonstrated proficiency in advanced object-oriented programming, application of software design patterns, and effective communication of complex technical details through code documentation. The successful implementation of the <code>RescueAnimalFactory</code> class showcases my capability to refactor and improve an existing codebase, enhancing its efficiency, maintainability, and adaptability.
-</p>
+<p>Through this enhancement, I demonstrated proficiency in advanced object-oriented programming, application of software design patterns, and effective communication of complex technical details through code documentation. The successful implementation of the <code>RescueAnimalFactory</code> class showcases my capability to refactor and improve an existing codebase, enhancing its efficiency, maintainability, and adaptability.</p>
 
-<a href="/">Return to Home</a>
+<p><a href="/">Return to Home</a></p>
