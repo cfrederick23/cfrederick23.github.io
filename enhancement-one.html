@@ -13,7 +13,7 @@ title: Enhancement One - Software Engineering and Design
 
 <p>The implementation of the <code>RescueAnimalFactory</code> class marked a significant improvement in the software's architecture. By centralizing object instantiation, this factory design pattern enforced the "separation of concerns" principle, crucial for maintaining a clean and manageable codebase. This design choice not only enhanced the modularity of the application but also facilitated future scalability and the integration of new animal types into the system seamlessly.</p>
 
-<pre><code>// Example of centralized object creation in RescueAnimalFactory
+<pre><code class="language-java">// Example of centralized object creation in RescueAnimalFactory
 public static Dog createDog(String name, String breed, String gender, String age, String weight, String acquisitionDate, String acquisitionCountry, String trainingStatus, boolean reserved, String inServiceCountry){
     Dog dog = new Dog(name, breed, gender, age, weight, acquisitionDate, acquisitionCountry, trainingStatus, reserved,  inServiceCountry);
     dogList.add(dog); // Dog ArrayList
@@ -30,18 +30,18 @@ public static Monkey createMonkey(String name, String tailLength, String height,
 
 <p>Further strengthening the software's architecture, comprehensive JavaDoc comments were introduced to enhance the clarity and instructional value of the code, aligning with the goal to produce professional-quality communications suitable for diverse audiences. This strategic move improved the overall comprehensibility of the codebase, serving both educational and practical purposes in software development.</p>
 
-<h2>Alignment with Course Outcomes</h2>
-
-<p>This enhancement directly aligns with several core course outcomes, emphasizing the development of scalable software solutions and delivery of professional-quality communications. The structural innovations implemented in the <code>RescueAnimalFactory</code> class demonstrate advanced software engineering techniques and contribute significantly to the development of computing solutions that are valuable, efficient, and tailored to specific industry needs.</p>
-
 Example of a JavaDoc comment:  
 
-<pre><code>/**
+<pre><code class="language-java">/**
  * The {@code RescueAnimalFactory} class is responsible for creating instances of rescue animals
  * and managing the lists of animals within the rescue system. It provides factory methods to create
  * new {@link Dog} and {@link Monkey} objects, and also maintains centralized lists of all animals,
  * dogs, and monkeys for easy retrieval and management.
  */</code></pre>  
+
+<h2>Alignment with Course Outcomes</h2>
+
+<p>This enhancement directly aligns with several core course outcomes, emphasizing the development of scalable software solutions and delivery of professional-quality communications. The structural innovations implemented in the <code>RescueAnimalFactory</code> class demonstrate advanced software engineering techniques and contribute significantly to the development of computing solutions that are valuable, efficient, and tailored to specific industry needs.</p>
 
 <p>Specifically, this project addresses the course outcomes by enhancing collaborative environments through improved code modularity, fostering better teamwork and maintenance capabilities. It also supports the creation of innovative computing techniques by implementing a design pattern that anticipates future system expansions and integration challenges.</p>
 
