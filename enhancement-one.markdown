@@ -21,8 +21,7 @@ public static Dog createDog(String name, String breed, String gender, String age
     animalList.add(dog); // RescueAnimal ArrayList
     return dog;
 }
-```
-```java
+
 public static Monkey createMonkey(String name, String tailLength, String height, String bodyLength, String species, String gender, String age, String weight, String acquisitionDate, String acquisitionCountry, String trainingStatus, boolean reserved, String inServiceCountry){
     Monkey monkey = new Monkey(name, tailLength, height, bodyLength, species, gender, age, weight, acquisitionDate, acquisitionCountry, trainingStatus, reserved, inServiceCountry);
     monkeyList.add(monkey); // Monkey ArrayList
@@ -43,19 +42,19 @@ Example of a JavaDoc comment:
  */
 ```
 
-##Alignment with Course Outcomes
+## Alignment with Course Outcomes
 
 This enhancement directly aligns with several core course outcomes, emphasizing the development of scalable software solutions and delivery of professional-quality communications. The structural innovations implemented in the `RescueAnimalFactory` class demonstrate advanced software engineering techniques and contribute significantly to the development of computing solutions that are valuable, efficient, and tailored to specific industry needs.
 
 Specifically, this project addresses the course outcomes by enhancing collaborative environments through improved code modularity, fostering better teamwork and maintenance capabilities. It also supports the creation of innovative computing techniques by implementing a design pattern that anticipates future system expansions and integration challenges.
 
-##Challenges and Learnings
+## Challenges and Learnings
 
 Integrating the `RescueAnimalFactory` without disrupting existing functionalities presented a moderate challenge. This process required meticulous planning and testing to ensure compatibility and performance. Through this experience, I deepened my understanding of design patterns and their practical applications in enhancing software maintainability and scalability.
 
 Adhering to rigorous documentation standards and employing JavaDoc effectively were key learnings that enhanced my ability to communicate complex technical details clearly. This practice not only facilitated easier code maintenance but also ensured that any programmer could understand and engage with the codebase effectively, highlighting the importance of clear and intentional commenting.
 
-##Skills Demonstrated
+## Skills Demonstrated
 
 Through this enhancement, I demonstrated proficiency in advanced object-oriented programming, application of software design patterns, and effective communication of complex technical details through code documentation. The successful implementation of the `RescueAnimalFactory` class showcases my capability to refactor and improve an existing codebase, enhancing its efficiency, maintainability, and adaptability.
 
