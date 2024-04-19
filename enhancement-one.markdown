@@ -30,6 +30,7 @@ public static Monkey createMonkey(String name, String tailLength, String height,
 }
 ```
 
+
 Further strengthening the software's architecture, comprehensive JavaDoc comments were introduced to enhance the clarity and instructional value of the code, aligning with the goal to produce professional-quality communications suitable for diverse audiences. This strategic move improved the overall comprehensibility of the codebase, serving both educational and practical purposes in software development.
 
 Example of a JavaDoc comment:
@@ -41,6 +42,7 @@ Example of a JavaDoc comment:
  * dogs, and monkeys for easy retrieval and management.
  */
 ```
+
 
 ## Alignment with Course Outcomes
 
