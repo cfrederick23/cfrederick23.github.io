@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Enhancement One - Software Engineering and Design
+title: Enhancement One: Software Engineering and Design
 ---
 
 # Enhancement One: Software Engineering and Design
@@ -15,34 +15,47 @@ The implementation of the `RescueAnimalFactory` class marked a significant impro
 
 ```java
 // Example of centralized object creation in RescueAnimalFactory
-public static Dog createDog(String name, String breed, String gender, String age, String weight, String acquisitionDate, String acquisitionCountry, String trainingStatus, boolean reserved, String inServiceCountry){
-    Dog dog = new Dog(name, breed, gender, age, weight, acquisitionDate, acquisitionCountry, trainingStatus, reserved, inServiceCountry);
+public static Dog createDog(String name, String breed, String gender,
+        String age, String weight, String acquisitionDate, 
+        String acquisitionCountry, String trainingStatus, 
+        boolean reserved, String inServiceCountry) {
+    Dog dog = new Dog(name, breed, gender, age, weight, 
+        acquisitionDate, acquisitionCountry, trainingStatus, 
+        reserved, inServiceCountry);
     dogList.add(dog); // Dog ArrayList
     animalList.add(dog); // RescueAnimal ArrayList
     return dog;
 }
 
-public static Monkey createMonkey(String name, String tailLength, String height, String bodyLength, String species, String gender, String age, String weight, String acquisitionDate, String acquisitionCountry, String trainingStatus, boolean reserved, String inServiceCountry){
-    Monkey monkey = new Monkey(name, tailLength, height, bodyLength, species, gender, age, weight, acquisitionDate, acquisitionCountry, trainingStatus, reserved, inServiceCountry);
+public static Monkey createMonkey(String name, String tailLength, 
+        String height, String bodyLength, String species, 
+        String gender, String age, String weight, 
+        String acquisitionDate, String acquisitionCountry, 
+        String trainingStatus, boolean reserved, 
+        String inServiceCountry) {
+    Monkey monkey = new Monkey(name, tailLength, height, bodyLength, 
+        species, gender, age, weight, acquisitionDate, 
+        acquisitionCountry, trainingStatus, reserved, 
+        inServiceCountry);
     monkeyList.add(monkey); // Monkey ArrayList
     animalList.add(monkey); // RescueAnimal ArrayList
     return monkey;
 }
 ```
 
-
 Further strengthening the software's architecture, comprehensive JavaDoc comments were introduced to enhance the clarity and instructional value of the code, aligning with the goal to produce professional-quality communications suitable for diverse audiences. This strategic move improved the overall comprehensibility of the codebase, serving both educational and practical purposes in software development.
 
 Example of a JavaDoc comment:
 ```java
 /**
- * The {@code RescueAnimalFactory} class is responsible for creating instances of rescue animals
- * and managing the lists of animals within the rescue system. It provides factory methods to create
- * new {@link Dog} and {@link Monkey} objects, and also maintains centralized lists of all animals,
- * dogs, and monkeys for easy retrieval and management.
+ * The {@code RescueAnimalFactory} class is responsible for creating 
+ * instances of rescue animals and managing the lists of animals 
+ * within the rescue system. It provides factory methods to create 
+ * new {@link Dog} and {@link Monkey} objects, and also maintains 
+ * centralized lists of all animals, dogs, and monkeys for easy 
+ * retrieval and management.
  */
 ```
-
 
 ## Alignment with Course Outcomes
 
