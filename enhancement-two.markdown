@@ -99,4 +99,20 @@ These enhancements not only improved the system's organization and maintainabili
 
 Through these enhancements, I directly addressed and fulfilled key program outcomes, notably in designing and evaluating computing solutions with algorithmic principles and developing a security mindset that anticipates adversarial exploits in software architecture.
 
+## Alignment with Course Outcomes
+
+This enhancement significantly aligns with core course outcomes, particularly in designing and evaluating efficient computing solutions and employing innovative computing techniques. The use of hash maps to optimize search functionalities within the Grazioso Salvare system showcases advanced algorithmic applications that enhance operational efficiency. This project emphasizes the implementation of data structures that are crucial for high-performance computing solutions, reflecting a strategic approach to software development that is adaptable and efficient.
+
+Specifically, this enhancement supports the course outcomes by demonstrating the effective use of innovative techniques and well-founded skills in computing practices, aimed at improving system performance and achieving industry-specific goals. It further exemplifies the practical application of advanced data structures, preparing the system for scalable growth and future integration of more complex functionalities.
+
+## Challenges and Learnings
+
+Integrating hash maps into the existing system to optimize search functionality presented minimal challenges, primarily centered around adapting the new data structure seamlessly into the codebase. The main technical hurdle involved devising a method to capture accurate timing for each method call, which required innovative use of Java’s system timing mechanisms.
+
+This enhancement taught me valuable lessons about the importance of precision in performance testing and the need for careful integration of new technologies to maintain system functionality.
+
+## Skills Demonstrated
+
+Through this enhancement, I demonstrated my proficiency in applying advanced Java data structures and innovative techniques to optimize software performance. I successfully employed Java's timing functions to measure and enhance the efficiency of search operations, showcasing my technical acumen and creative problem-solving skills. This experience not only reflects my ability to handle minimal challenges but also emphasizes my competence in improving and refining software functionalities to meet high performance standards.
+
 [Return to Home](/)
