@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Chris Frederick's ePortfolio
+# Welcome to My ePortfolio
 
 Welcome to my ePortfolio, a comprehensive showcase of my journey through the Bachelor of Science in Computer Science program at Southern New Hampshire University (SNHU). As part of the "Computer Science Capstone" (CS 499) course, this portfolio presents significant enhancements made to a key project I initially developed earlier in my studies. These enhancements highlight my development and expertise across fundamental computer science domains, demonstrating my achievement of core course outcomes. Included in this ePortfolio are a professional self-assessment, a link to my code review video detailing both the original state of the project and my planned enhancements, along with concise descriptions and links to detailed accounts of each enhancement. I have also included links to download both the original artifact and the updated project after each enhancement.
 
