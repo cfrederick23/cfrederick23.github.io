@@ -5,7 +5,7 @@ title: Enhancement Two - Algorithms and Data Structure
 
 # Enhancement Two: Algorithms and Data Structure
 
-[Download Enhancement Two](https://drive.google.com/file/d/1HaDTTC-5UzFHW5S0RK5aAPMYYCOFvfys/view?usp=sharing){:target="_blank"}
+[Download Enhancement Two](https://drive.google.com/file/d/1eLMpMIw3puJx0ompc6_dSWllSW1rSDJf/view?usp=sharing){:target="_blank"}
 
 Reflecting on the progression of the Grazioso Salvare Rescue Animal Management System, this enhancement built upon the foundational software engineering and design improvements made previously, by enhancing the project in the algorithms and data structures category. The aim was to transition the system from a basic to a sophisticated application demonstrating my capabilities in optimizing data retrieval processes using advanced data structures.
 
@@ -106,10 +106,9 @@ As an example of methods dedicated to input validation, here is how I implemente
 ```java
 /**
  * Prompts the user to enter the age of an animal, validates the input to ensure
- * it's within a valid range,
- * and allows for the operation to be cancelled. This method uses a loop to
- * continuously prompt the user until
- * a valid age is entered or the user cancels the operation.
+ * it's within a valid range, and allows for the operation to be cancelled. This 
+ * method uses a loop to continuously prompt the user until a valid age is entered 
+ * or the user cancels the operation.
  *
  * @param scanner The Scanner object used to read user input.
  * @param name    The name of the animal, used in the prompt to personalize the
@@ -144,29 +143,25 @@ By inputting 'n', users can navigate to the next page of animal details, which h
 ```java
 /**
  * Displays a list of rescue animals with pagination, allowing the user to view
- * a subset of animals at a time.
- * The user can navigate through the list by requesting the next page of
- * animals. Optionally, if the reserve flag
- * is set to true, the user can also input the name of an animal to initiate a
+ * a subset of animals at a time. The user can navigate through the list by 
+ * requesting the next page of animals. Optionally, if the reserve flag is set 
+ * to true, the user can also input the name of an animal to initiate a
  * reservation process.
  * 
  * This method is designed to enhance user interaction by breaking down a
- * potentially large list of animals
- * into manageable pages, making it easier to browse through the list.
- * Additionally, the optional reservation
- * functionality provides a direct way to reserve an animal without leaving the
+ * potentially large list of animals into manageable pages, making it easier to 
+ * browse through the list. Additionally, the optional reservation functionality 
+ * provides a direct way to reserve an animal without leaving the
  * pagination view.
  *
  * @param animals The list of {@link RescueAnimal} objects to be displayed. Each
- *                animal's details are printed
- *                using the {@code printAnimalDetails} method.
+ *                animal's details are printed using the {@code printAnimalDetails}
+ *                method.
  * @param scanner The {@link Scanner} object used to read user input, allowing
- *                for navigation and selection within
- *                the paginated list.
+ *                for navigation and selection within the paginated list.
  * @param reserve A boolean flag indicating whether the method should listen for
- *                reserving an animal in addition to pagination
- *                controls. When true, entering an
- *                animal's name directly initiates a reservation for that
+ *                reserving an animal in addition to pagination controls. When true, 
+ *                entering an animal's name directly initiates a reservation for that
  *                animal.
  * @return The {@link RescueAnimal} object that the user selected for
  *         reservation, if any, and if the reserve flag
@@ -215,7 +210,6 @@ public static RescueAnimal printAnimalDetailsPaginated(List<? extends RescueAnim
 }
 ```
 
-
 ## Alignment with Course Outcomes
 
 This enhancement significantly aligns with core course outcomes, particularly in designing and evaluating efficient computing solutions and employing innovative computing techniques. The use of hash maps to optimize search functionalities within the Grazioso Salvare system showcases advanced algorithmic applications that enhance operational efficiency. This project emphasizes the implementation of data structures that are crucial for high-performance computing solutions, reflecting a strategic approach to software development that is adaptable and efficient.
@@ -236,4 +230,4 @@ Through this enhancement, I demonstrated my proficiency in applying advanced Jav
 [Enhancement One Page](/enhancement-one)  
 [Enhancement Three Page](/enhancement-three)  
   
-[Download Enhancement Two](https://drive.google.com/file/d/1HaDTTC-5UzFHW5S0RK5aAPMYYCOFvfys/view?usp=sharing){:target="_blank"}
+[Download Enhancement Two](https://drive.google.com/file/d/1eLMpMIw3puJx0ompc6_dSWllSW1rSDJf/view?usp=sharing){:target="_blank"}
