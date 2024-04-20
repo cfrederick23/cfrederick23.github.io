@@ -5,7 +5,7 @@ title: Enhancement Two - Algorithms and Data Structure
 
 # Enhancement Two: Algorithms and Data Structure
 
-[Download Enhancement Two](https://drive.google.com/file/d/1eLMpMIw3puJx0ompc6_dSWllSW1rSDJf/view?usp=sharing){:target="_blank"}
+[Download Enhancement Two](EnhancementTwo.zip)
 
 Reflecting on the progression of the Grazioso Salvare Rescue Animal Management System, this enhancement built upon the foundational software engineering and design improvements made previously, by enhancing the project in the algorithms and data structures category. The aim was to transition the system from a basic to a sophisticated application demonstrating my capabilities in optimizing data retrieval processes using advanced data structures.
 
@@ -230,4 +230,4 @@ Through this enhancement, I demonstrated my proficiency in applying advanced Jav
 [Enhancement One Page](/enhancement-one)  
 [Enhancement Three Page](/enhancement-three)  
   
-[Download Enhancement Two](https://drive.google.com/file/d/1eLMpMIw3puJx0ompc6_dSWllSW1rSDJf/view?usp=sharing){:target="_blank"}
+[Download Enhancement Two](EnhancementTwo.zip)

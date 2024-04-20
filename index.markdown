@@ -4,7 +4,7 @@ layout: default
 
 # Welcome to My ePortfolio
 
-Welcome to my ePortfolio, a comprehensive showcase of my journey through the Bachelor of Science in Computer Science program at Southern New Hampshire University (SNHU). As part of the "Computer Science Capstone" (CS 499) course, this portfolio presents significant enhancements made to a key project I initially developed earlier in my studies. These enhancements highlight my development and expertise across fundamental computer science domains, demonstrating my achievement of core course outcomes. Included in this ePortfolio are a professional self-assessment, a link to my code review video detailing both the original state of the project and my planned enhancements, along with concise descriptions and links to detailed accounts of each enhancement. I have also included links to download both the original artifact and the updated project after each enhancement through Google Drive.
+Welcome to my ePortfolio, a comprehensive showcase of my journey through the Bachelor of Science in Computer Science program at Southern New Hampshire University (SNHU). As part of the "Computer Science Capstone" (CS 499) course, this portfolio presents significant enhancements made to a key project I initially developed earlier in my studies. These enhancements highlight my development and expertise across fundamental computer science domains, demonstrating my achievement of core course outcomes. Included in this ePortfolio are a professional self-assessment, a link to my code review video detailing both the original state of the project and my planned enhancements, along with concise descriptions and links to detailed accounts of each enhancement. I have also included links to download both the original artifact and the updated project after each enhancement.
 
 # Professional Self-Assessment
 
@@ -65,16 +65,16 @@ This professional self-assessment and the accompanying ePortfolio not only highl
 
 # Artifact Enhancements
 
-The artifact chosen for all enhancements originated from my earlier coursework in the "Foundation in Application Development" (IT 145) course. You can download the Java files of the original artifact here: [Download Original Artifact Files](https://drive.google.com/file/d/1pPwXJgoiy0z9w-4LDJZh4WkLmQDrj4C1/view?usp=sharing){:target="_blank"}
+The artifact chosen for all enhancements originated from my earlier coursework in the "Foundation in Application Development" (IT 145) course. You can download the Java files of the original artifact here: [Download Original Artifact Files](OriginalArtifact.zip){:target="_blank"}
 
 - **Enhancement One: Software Engineering and Design**: Implemented a factory design pattern through the `RescueAnimalFactory` to streamline object creation processes, which enhances the modularity and scalability of the application.  
-[Read More](./enhancement-one) | [Download Enhancement One Files](https://drive.google.com/file/d/1-4nTlY2KZvnHgFaIZOHSJA8juXZT7cN7/view?usp=sharing){:target="_blank"}
+[Read More](./enhancement-one) | [Download Enhancement One Files](EnhancementOne.zip)
   
 - **Enhancement Two: Algorithms and Data Structures**: Optimized the search functionality by implementing hash maps, improving the time complexity from O(n) to O(1) for key operations, demonstrating efficient algorithm utilization.  
-[Read More](./enhancement-two) | [Download Enhancement Two Files](https://drive.google.com/file/d/1eLMpMIw3puJx0ompc6_dSWllSW1rSDJf/view?usp=sharing){:target="_blank"}
+[Read More](./enhancement-two) | [Download Enhancement Two Files](EnhancementTwo.zip)
   
 - **Enhancement Three: Databases**: Enhanced the application’s data handling capabilities by integrating a SQLite database, replacing the previous in-memory storage system. This improvement significantly boosts the application's data management and security.  
-[Read More](./enhancement-three) | [Download Enhancement Three Files](https://drive.google.com/file/d/1mrjrkLg8VFjQHOOLhQT2sz9B8E5qgs-K/view?usp=sharing){:target="_blank"}
+[Read More](./enhancement-three) | [Download Enhancement Three Files](EnhancementThree.zip)
 
 
 # Connect With Me
