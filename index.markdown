@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Welcome to My ePortfolio
+# Chris Frederick's ePortfolio
 
 Welcome to my ePortfolio, a comprehensive showcase of my journey through the Bachelor of Science in Computer Science program at Southern New Hampshire University (SNHU). As part of the "Computer Science Capstone" (CS 499) course, this portfolio presents significant enhancements made to a key project I initially developed earlier in my studies. These enhancements highlight my development and expertise across fundamental computer science domains, demonstrating my achievement of core course outcomes. Included in this ePortfolio are a professional self-assessment, a link to my code review video detailing both the original state of the project and my planned enhancements, along with concise descriptions and links to detailed accounts of each enhancement. I have also included links to download both the original artifact and the updated project after each enhancement.
 
@@ -40,19 +40,19 @@ These strategic enhancements not only underline my technical proficiency but als
 
 ## Achievements of Course Outcomes
 
-### Course Outcome 1: Collaborative Environments
+#### Course Outcome 1: Collaborative Environments
 I employed strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science by integrating the RescueAnimalFactory class and a SQLite database. This approach not only enhanced the system's modularity and scalability by facilitating the addition of new animal types but also improved data management practices, making the platform significantly more adaptable and conducive to collaborative development efforts.
 
-### Course Outcome 2: Professional-Quality Communications
+#### Course Outcome 2: Professional-Quality Communications
 I designed, developed, and delivered professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts by utilizing JavaDoc comments to enhance the legibility and instructional value of the code and by creating a comprehensive code review video that elucidates the functionality and improvements of the project, making it accessible and informative to both technical and non-technical audiences.
 
-### Course Outcome 3: Algorithmic Solutions Design
+#### Course Outcome 3: Algorithmic Solutions Design
 I designed and evaluated computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution by implementing a hash map to optimize search functionalities, significantly improving the search efficiency by reducing the average time complexity from O(n) to O(1), thus demonstrating an effective use of advanced data structures.
 
-### Course Outcome 4: Innovative Computing Techniques
+#### Course Outcome 4: Innovative Computing Techniques
 I demonstrated an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals by integrating a SQLite database, which not only enhanced the system’s data management and scalability but also enabled the ability to maintain persistent data across sessions. The use of Java's PreparedStatement further contributed to ensuring data integrity and preventing SQL injection attacks, supporting more complex and higher volume data operations without compromising performance.
 
-### Course Outcome 5: Security Mindset
+#### Course Outcome 5: Security Mindset
 I developed a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources by implementing advanced password handling techniques, including the hashing and salting of passwords, to fortify user authentication processes. Additionally, the introduction of user roles with admin functionality allows for differentiated access control, further enhancing the security and robustness of the system's architecture.
 
 ## Summary
