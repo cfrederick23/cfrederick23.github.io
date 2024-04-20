@@ -13,8 +13,9 @@ As a recap, the chosen artifact for this enhancement was a Java-based console ap
 
 The implementation of the `RescueAnimalFactory` class marked a significant improvement in the software's architecture. By centralizing object instantiation, this factory design pattern enforced the "separation of concerns" principle, crucial for maintaining a clean and manageable codebase. This design choice not only enhanced the modularity of the application but also facilitated future scalability and the integration of new animal types into the system seamlessly.
 
+### Object Creation Moved to RescueAnimalFactory Class
+**Method to create a Dog object and add it to the appropriate array lists:**
 ```java
-// Example of centralized object creation in RescueAnimalFactory
 public static Dog createDog(String name, String breed, String gender,
         String age, String weight, String acquisitionDate, 
         String acquisitionCountry, String trainingStatus, 
@@ -26,7 +27,9 @@ public static Dog createDog(String name, String breed, String gender,
     animalList.add(dog); // RescueAnimal ArrayList
     return dog;
 }
-
+```
+**Method to create a Monkey object and add it to the appropriate array lists:**
+```java
 public static Monkey createMonkey(String name, String tailLength, 
         String height, String bodyLength, String species, 
         String gender, String age, String weight, 
@@ -43,9 +46,12 @@ public static Monkey createMonkey(String name, String tailLength,
 }
 ```
 
+Now, the `Driver` class is relieved of these duties and can focus more on managing user interactions and system operations, thereby making the codebase cleaner and the application more maintainable. This refactoring allows for easier future enhancements and additions of new functionalities without overcomplicating the `Driver` class.
+
+### JavaDoc Comments
 Further strengthening the software's architecture, comprehensive JavaDoc comments were introduced to enhance the clarity and instructional value of the code, aligning with the goal to produce professional-quality communications suitable for diverse audiences. This strategic move improved the overall comprehensibility of the codebase, serving both educational and practical purposes in software development.
 
-Example of a JavaDoc comment:
+**JavaDoc comment for** `RescueAnimalFactory` **class:**
 ```java
 /**
  * The {@code RescueAnimalFactory} class is responsible for creating 
@@ -56,6 +62,50 @@ Example of a JavaDoc comment:
  * retrieval and management.
  */
 ```
+
+Below is a screenshot of the tooltip that appears when hovering over a reference to the `RescueAnimalFactory` class within the IDE, showcasing the utility of the JavaDoc comments for enhancing developer understanding and ease of use:
+
+![Javadoc tooltip](images/JavaDoc tooltip.png "Javadoc tooltip")
+
+## Additional Enhancements
+
+### Enhanced User Interaction with promptAndRead Method
+
+To further improve user interaction within the Grazioso Salvare system, I implemented the `promptAndRead` method. This method enhances the application's robustness by validating user inputs and allowing for graceful cancellation of operations.
+
+The `promptAndRead` method prompts users for input and validates this input against predefined criteria. Crucially, it offers an immediate exit option — "CANCEL" — which, when input by the user, cancels the operation and returns them to the main menu. This feature ensures that users can easily navigate and control their actions within the application without the risk of unintentional data submission or errors.
+
+```java
+/**
+ * Prompts the user for input and allows for input validation or cancellation.
+ * If "CANCEL" is input, the operation can be aborted.
+ * 
+ * @param scanner The Scanner object for reading user input.
+ * @param prompt The prompt message to display to the user.
+ * @param validations Optional list of valid input values.
+ * @return The user's input or null if the operation is cancelled.
+ */
+public static String promptAndRead(Scanner scanner, String prompt, String... validations) {
+    String input;
+    while (true) {
+        System.out.println(prompt);
+        input = scanner.nextLine();
+
+        if ("CANCEL".equalsIgnoreCase(input)) {
+            System.out.println("Operation cancelled.");
+            return null; // Indicates the user cancelled the operation
+        }
+
+        if (validations.length == 0 || Arrays.stream(validations).anyMatch(input::equalsIgnoreCase)) {
+            return input; // Valid input
+        }
+
+        System.out.println("Invalid input. Please try again.");
+    }
+}
+```
+
+This method not only simplifies the process of gathering and validating user input but also enhances the overall user experience by integrating a straightforward mechanism for operation cancellation. This functionality exemplifies the application's user-centered design, where ease of use and user control are prioritized.
 
 ## Alignment with Course Outcomes
 
@@ -73,4 +123,8 @@ Adhering to rigorous documentation standards and employing JavaDoc effectively w
 
 Through this enhancement, I demonstrated proficiency in advanced object-oriented programming, application of software design patterns, and effective communication of complex technical details through code documentation. The successful implementation of the `RescueAnimalFactory` class showcases my capability to refactor and improve an existing codebase, enhancing its efficiency, maintainability, and adaptability.
 
-[Return to Home](/)
+[Return to Home](/)  
+[Enhancement Two Page](/enhancement-two)  
+[Enhancement Three Page](/enhancement-three)  
+  
+[Download Enhancement One](https://drive.google.com/file/d/1WwYssKLHy77b7uCjTqBroRx2x9RuhU_V/view?usp=sharing){:target="_blank"}
