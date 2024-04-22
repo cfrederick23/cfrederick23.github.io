@@ -1,5 +1,6 @@
 ---
 layout: default
+toc: true
 ---
 
 # Welcome to My ePortfolio

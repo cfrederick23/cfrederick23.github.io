@@ -1,11 +1,13 @@
 ---
 layout: default
-title: Enhancement One: Software Engineering and Design
+icon: fas fa-stream
+title: Enhancement One - Software Engineering and Design
+order: 1
 ---
 
 # Enhancement One: Software Engineering and Design
 
-[Download Enhancement One](EnhancementOne.zip)
+[Download Enhancement One](../EnhancementOne.zip)
 
 As a recap, the chosen artifact for this enhancement was a Java-based console application developed for Grazioso Salvare, initially created during the "Foundation in Application Development" (IT 145) course at SNHU. This project was selected for its potential to be transformed from a basic introductory object-oriented programming model to a sophisticated, scalable, and modular software system. The primary focus of this enhancement was the introduction of the `RescueAnimalFactory` class.
 
@@ -65,7 +67,7 @@ Further strengthening the software's architecture, comprehensive JavaDoc comment
 
 Below is a screenshot of the tooltip that appears when hovering over a reference to the `RescueAnimalFactory` class within the IDE, showcasing the utility of the JavaDoc comments for enhancing developer understanding and ease of use:
 
-![Javadoc tooltip](images/JavaDoc tooltip.png "Javadoc tooltip")
+![Javadoc tooltip](../images/JavaDoc tooltip.png "Javadoc tooltip")
 
 ## Additional Enhancements
 
@@ -127,4 +129,5 @@ Through this enhancement, I demonstrated proficiency in advanced object-oriented
 [Enhancement Two Page](/enhancement-two)  
 [Enhancement Three Page](/enhancement-three)  
   
-[Download Enhancement One](EnhancementOne.zip)
+[Download Enhancement One](../EnhancementOne.zip)
+

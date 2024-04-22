@@ -1,11 +1,13 @@
 ---
 layout: default
+icon: fas fa-stream
 title: Enhancement Two - Algorithms and Data Structure
+order: 2
 ---
 
 # Enhancement Two: Algorithms and Data Structure
 
-[Download Enhancement Two](EnhancementTwo.zip)
+[Download Enhancement Two](../EnhancementTwo.zip)
 
 Reflecting on the progression of the Grazioso Salvare Rescue Animal Management System, this enhancement built upon the foundational software engineering and design improvements made previously, by enhancing the project in the algorithms and data structures category. The aim was to transition the system from a basic to a sophisticated application demonstrating my capabilities in optimizing data retrieval processes using advanced data structures.
 
@@ -85,13 +87,13 @@ long durationArrayList = endTimeArrayList - startTimeArrayList;
 
 ### Results
 
-![Search Performance Result 1](images/Result 1.png "Monkey5000000 Search Results")
+![Search Performance Result 1](../images/Result 1.png "Monkey5000000 Search Results")
 
 The hash map executed the search instantly, taking 0 milliseconds, whereas the array list took 241 milliseconds for the same operation.
 
 Even when the target animal doesn't exist, the hash map maintains its swift performance:
 
-![Search Performance Result 2](images/Result 2.png "Non-Existent Animal Search Results")
+![Search Performance Result 2](../images/Result 2.png "Non-Existent Animal Search Results")
 
 Once again, the hash map search was immediate, showing 0 milliseconds, while the array list search slowed down to 195 milliseconds.
 
@@ -230,4 +232,4 @@ Through this enhancement, I demonstrated my proficiency in applying advanced Jav
 [Enhancement One Page](/enhancement-one)  
 [Enhancement Three Page](/enhancement-three)  
   
-[Download Enhancement Two](EnhancementTwo.zip)
+[Download Enhancement Two](../EnhancementTwo.zip)
