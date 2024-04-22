@@ -18,11 +18,7 @@ In addition to the `DatabaseHelper` class, the third enhancement of the Grazioso
 
 **Updated Application Architecture:**  
 The image below illustrates the new file structure, showcasing the addition of the `User` and `Reservation` classes, service classes, and the integration of the SQLite database, marking a significant advancement in the system's data management capabilities.  
-<<<<<<<< HEAD:enhancement-three.md
 ![File Structure](/images/File Structure.png "New File Structure")
-========
-![File Structure](../images/File Structure.png "New File Structure")
->>>>>>>> ab16e54068cbc2837688f5fbc839559531469b64:_tabs/enhancement-three.md
 
 ### Secure Password Handling
 Security enhancements were crucial in this phase. The system now includes secure user authentication mechanisms that use hashing and salting techniques instead of storing raw password strings, thereby preventing unauthorized access and enhancing data privacy.

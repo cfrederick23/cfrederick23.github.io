@@ -63,15 +63,9 @@ Further strengthening the software's architecture, comprehensive JavaDoc comment
  */
 ```
 
-<<<<<<<< HEAD:enhancement-one.md
 Below is a screenshot of the tooltip that appears when hovering over a reference to the `RescueAnimalFactory` class within the IDE, showcasing the utility of the JavaDoc comments for enhancing developer understanding and ease of use:  
   
 ![Javadoc tooltip](/images/JavaDoc tooltip.png "Javadoc tooltip")
-========
-Below is a screenshot of the tooltip that appears when hovering over a reference to the `RescueAnimalFactory` class within the IDE, showcasing the utility of the JavaDoc comments for enhancing developer understanding and ease of use:
-
-![Javadoc tooltip](../images/JavaDoc tooltip.png "Javadoc tooltip")
->>>>>>>> ab16e54068cbc2837688f5fbc839559531469b64:_tabs/enhancement-one.md
 
 ## Additional Enhancements
 

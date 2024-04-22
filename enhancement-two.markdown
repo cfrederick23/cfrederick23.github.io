@@ -85,21 +85,13 @@ long durationArrayList = endTimeArrayList - startTimeArrayList;
 
 ### Results
 
-<<<<<<<< HEAD:enhancement-two.md
 ![Search Performance Result 1](/images/Result 1.png "Monkey5000000 Search Results")
-========
-![Search Performance Result 1](../images/Result 1.png "Monkey5000000 Search Results")
->>>>>>>> ab16e54068cbc2837688f5fbc839559531469b64:_tabs/enhancement-two.md
 
 The hash map executed the search instantly, taking 0 milliseconds, whereas the array list took 241 milliseconds for the same operation.
 
 Even when the target animal doesn't exist, the hash map maintains its swift performance:
 
-<<<<<<<< HEAD:enhancement-two.md
 ![Search Performance Result 2](/images/Result 2.png "Non-Existent Animal Search Results")
-========
-![Search Performance Result 2](../images/Result 2.png "Non-Existent Animal Search Results")
->>>>>>>> ab16e54068cbc2837688f5fbc839559531469b64:_tabs/enhancement-two.md
 
 Once again, the hash map search was immediate, showing 0 milliseconds, while the array list search slowed down to 195 milliseconds.
 
