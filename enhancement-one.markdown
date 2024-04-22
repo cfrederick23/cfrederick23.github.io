@@ -1,12 +1,6 @@
 ---
 layout: default
-<<<<<<<< HEAD:enhancement-one.md
 title: Enhancement One - Software Engineering and Design
-========
-icon: fas fa-stream
-title: Enhancement One - Software Engineering and Design
-order: 1
->>>>>>>> ab16e54068cbc2837688f5fbc839559531469b64:_tabs/enhancement-one.md
 ---
 
 # Enhancement One: Software Engineering and Design

@@ -1,8 +1,6 @@
 ---
 layout: default
-icon: fas fa-stream
 title: Enhancement Three - Databases
-order: 3
 ---
 
 # Enhancement Three: Databases

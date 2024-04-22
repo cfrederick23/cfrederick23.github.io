@@ -1,8 +1,6 @@
 ---
 layout: default
-icon: fas fa-stream
 title: Enhancement Two - Algorithms and Data Structure
-order: 2
 ---
 
 # Enhancement Two: Algorithms and Data Structure
