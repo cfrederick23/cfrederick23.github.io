@@ -1,5 +1,6 @@
 ---
 layout: default
+toc: true
 ---
 
 # Chris Frederick's ePortfolio

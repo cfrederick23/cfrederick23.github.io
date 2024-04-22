@@ -1,11 +1,13 @@
 ---
 layout: default
+icon: fas fa-stream
 title: Enhancement Three - Databases
+order: 3
 ---
 
 # Enhancement Three: Databases
 
-[Download Enhancement Three](EnhancementThree.zip)
+[Download Enhancement Three](../EnhancementThree.zip)
 
 Building on the solid foundations laid by previous enhancements in software engineering and algorithm optimization, the third enhancement marks a significant leap in the evolution of the Grazioso Salvare Rescue Animal Management System. This phase was dedicated to advancing the system's data management and security capabilities by incorporating a comprehensive SQLite database. The adoption of an SQLite database transformed the application from using transient in-memory storage to employing a persistent and secure data management approach. This was achieved through the design and implementation of a relational database schema that enabled efficient data relationships and transactions. The transformation entailed during this enhancement not only fortified the application's data persistence and integrity but also positioned it to adeptly handle complex data operations, thus paving the way for a future-proof and scalable architecture.
 
@@ -18,7 +20,11 @@ In addition to the `DatabaseHelper` class, the third enhancement of the Grazioso
 
 **Updated Application Architecture:**  
 The image below illustrates the new file structure, showcasing the addition of the `User` and `Reservation` classes, service classes, and the integration of the SQLite database, marking a significant advancement in the system's data management capabilities.  
+<<<<<<<< HEAD:enhancement-three.md
 ![File Structure](/images/File Structure.png "New File Structure")
+========
+![File Structure](../images/File Structure.png "New File Structure")
+>>>>>>>> ab16e54068cbc2837688f5fbc839559531469b64:_tabs/enhancement-three.md
 
 ### Secure Password Handling
 Security enhancements were crucial in this phase. The system now includes secure user authentication mechanisms that use hashing and salting techniques instead of storing raw password strings, thereby preventing unauthorized access and enhancing data privacy.
@@ -316,4 +322,4 @@ This enhancement vividly demonstrates my capability to blend well-founded comput
 [Enhancement One Page](/enhancement-one)  
 [Enhancement Two Page](/enhancement-two)   
   
-[Download Enhancement Three](EnhancementThree.zip)
+[Download Enhancement Three](../EnhancementThree.zip)
