@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Welcome to My ePortfolio
+# Chris Frederick's ePortfolio
 
 Welcome to my ePortfolio, a comprehensive showcase of my journey through the Bachelor of Science in Computer Science program at Southern New Hampshire University (SNHU). As part of the "Computer Science Capstone" (CS 499) course, this portfolio presents significant enhancements made to a key project I initially developed earlier in my studies. These enhancements highlight my development and expertise across fundamental computer science domains, demonstrating my achievement of core course outcomes. Included in this ePortfolio are a professional self-assessment, a link to my code review video detailing both the original state of the project and my planned enhancements, along with concise descriptions and links to detailed accounts of each enhancement. I have also included links to download both the original artifact and the updated project after each enhancement.
 
@@ -38,7 +38,7 @@ The final enhancement involved transitioning the system to utilize a robust SQLi
 
 These strategic enhancements not only underline my technical proficiency but also my ability to apply theoretical knowledge to practical, real-world scenarios. Through this capstone project, I have documented my evolution from understanding basic programming concepts to mastering advanced software development techniques, preparing me to tackle professional challenges in the field of computer science. Each of these enhancements directly contributes to my proficiency in key areas of computer science, setting the stage to discuss how they align with the specific course outcomes, thereby demonstrating the comprehensive range of my abilities and readiness to advance in my professional career.
 
-## Achievements of Course Outcomes
+## Achievement of Course Outcomes
 
 #### Course Outcome 1: Collaborative Environments
 I employed strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science by integrating the RescueAnimalFactory class and a SQLite database. This approach not only enhanced the system's modularity and scalability by facilitating the addition of new animal types but also improved data management practices, making the platform significantly more adaptable and conducive to collaborative development efforts.

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Enhancement One: Software Engineering and Design
+title: Enhancement One - Software Engineering and Design
 ---
 
 # Enhancement One: Software Engineering and Design
@@ -63,9 +63,9 @@ Further strengthening the software's architecture, comprehensive JavaDoc comment
  */
 ```
 
-Below is a screenshot of the tooltip that appears when hovering over a reference to the `RescueAnimalFactory` class within the IDE, showcasing the utility of the JavaDoc comments for enhancing developer understanding and ease of use:
-
-![Javadoc tooltip](images/JavaDoc tooltip.png "Javadoc tooltip")
+Below is a screenshot of the tooltip that appears when hovering over a reference to the `RescueAnimalFactory` class within the IDE, showcasing the utility of the JavaDoc comments for enhancing developer understanding and ease of use:  
+  
+![Javadoc tooltip](/images/JavaDoc tooltip.png "Javadoc tooltip")
 
 ## Additional Enhancements
 
